@@ -1,0 +1,18 @@
+.logo{
+    background-image: linear-gradient(to left, #FFFFFF, #D8F1E9);
+}
+
+.navigation-bar a{
+    cursor: pointer;
+    font-weight: 500;
+    column-gap: 20px;
+    
+}
+.carbon-print-button{
+    border-radius: 50px;
+    background-color: #50b748;
+    
+    color:white;
+    border: none;
+}
+
